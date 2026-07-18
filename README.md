@@ -158,7 +158,33 @@ Gene Ontology analysis reveals that TP53 primarily functions as a **DNA-binding 
 
 # 🧬 Protein Domains
 
+The TP53 protein is composed of several conserved functional domains that collectively enable its role as a sequence-specific transcription factor and tumor suppressor. Each domain contributes to a distinct biological function, ranging from transcriptional activation to DNA recognition and protein oligomerization.
+
+The N-terminal **Transactivation Domain (TAD)** recruits transcriptional co-activators and regulatory proteins such as MDM2, which controls p53 stability. The **Proline-Rich Region (PRR)** enhances apoptotic signaling and facilitates protein–protein interactions. The central **DNA-Binding Domain (DBD)** is responsible for recognizing specific DNA response elements and regulating the transcription of genes involved in cell cycle arrest, DNA repair, apoptosis, and senescence. This domain is highly conserved and contains the majority of pathogenic TP53 mutations identified in human cancers.
+
+The **Tetramerization Domain (TD)** enables four p53 monomers to assemble into the biologically active tetramer required for efficient DNA binding. Finally, the **C-terminal Regulatory Domain (CTD)** modulates DNA-binding affinity and serves as a hotspot for numerous post-translational modifications that regulate protein activity.
+
+## Functional Domains of TP53
+
+| Domain | Amino Acid Position | Biological Role |
+|---------|--------------------:|-----------------|
+| Transactivation Domain (TAD) | 1–61 | Activates transcription and interacts with regulatory proteins |
+| Proline-Rich Region (PRR) | 64–92 | Promotes apoptosis and protein–protein interactions |
+| DNA-Binding Domain (DBD) | 94–292 | Sequence-specific DNA recognition and transcriptional regulation |
+| Tetramerization Domain (TD) | 325–356 | Formation of the active p53 tetramer |
+| C-terminal Regulatory Domain (CTD) | 363–393 | Regulation of DNA binding and post-translational modifications |
+
 ---
+
+## UniProt Feature Viewer
+
+![TP53 Feature Viewer](images/protein-domains.png)
+
+**Figure 4.** UniProt Feature Viewer illustrating the structural organization of TP53, including conserved domains, functional regions, sequence motifs, modification sites, experimentally validated variants, and other annotated protein features.
+
+### Interpretation
+
+The UniProt Feature Viewer demonstrates that TP53 possesses a highly organized domain architecture with numerous experimentally annotated functional elements. The central DNA-binding domain represents the largest and most functionally important region of the protein, while the C-terminal region contains multiple regulatory motifs and post-translational modification sites. The high density of annotated variants within the DNA-binding domain reflects its critical role in maintaining TP53 function and explains why this region is frequently disrupted in human cancers.
 
 # 🧬 Post-Translational Modifications
 
