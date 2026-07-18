@@ -420,20 +420,7 @@ Beyond cell cycle regulation, TP53 participates in DNA double-strand break repai
 
 The Reactome pathway analysis demonstrates that TP53 functions as a central molecular coordinator linking DNA repair, checkpoint control, transcriptional regulation, apoptosis, metabolism, and immune signaling. Its extensive pathway involvement explains why TP53 is widely recognized as the **"Guardian of the Genome."** Disruption of TP53-mediated pathways through mutation or dysregulation contributes to genomic instability and the development of numerous human cancers.
 
-# 🎓 Skills Demonstrated
 
-- Protein annotation
-- Protein sequence interpretation
-- Functional domain analysis
-- Protein structure interpretation
-- Post-translational modification analysis
-- Protein interaction analysis
-- Biological pathway analysis
-- Scientific literature interpretation
-- Technical documentation using Markdown
-- GitHub project documentation
-
----
 # 🎯 Conclusion
 
 This project presents a comprehensive bioinformatics characterization of the human tumor suppressor protein TP53 by integrating structural, functional, interaction, disease, and pathway information from multiple publicly available biological databases.
@@ -451,6 +438,21 @@ Future work can extend this project by integrating transcriptomic, proteomic, an
 Structural analyses may also be expanded through molecular docking and molecular dynamics simulations to evaluate the effects of disease-associated TP53 mutations on protein stability and DNA binding. Additionally, machine learning approaches could be employed to predict the functional impact of novel TP53 variants and identify potential therapeutic targets.
 
 Such integrative analyses would provide a deeper systems-level understanding of TP53 biology and further demonstrate the application of computational biology in precision medicine and cancer research.
+
+# 🎓 Skills Demonstrated
+
+- Protein annotation
+- Protein sequence interpretation
+- Functional domain analysis
+- Protein structure interpretation
+- Post-translational modification analysis
+- Protein interaction analysis
+- Biological pathway analysis
+- Scientific literature interpretation
+- Technical documentation using Markdown
+- GitHub project documentation
+
+---
 
 # 📊 Project Status
 
