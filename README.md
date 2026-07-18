@@ -317,6 +317,46 @@ Using both IntAct and STRING provides complementary perspectives on TP53 biology
 
 # 🧬 Disease Associations
 
+TP53 is one of the most extensively studied tumor suppressor genes and plays a pivotal role in maintaining genomic stability. By regulating cell cycle arrest, DNA repair, apoptosis, and cellular senescence, TP53 prevents the propagation of genetically damaged cells. Consequently, loss of TP53 function through germline or somatic mutations is strongly associated with numerous human diseases, particularly cancer.
+
+Mutations in **TP53** are among the most frequent genetic alterations observed in human malignancies and are linked to both inherited cancer predisposition syndromes and sporadic tumors.
+
+---
+
+## Major Disease Associations
+
+| Disease | Clinical Significance |
+|----------|-----------------------|
+| **Li-Fraumeni Syndrome** | Hereditary cancer predisposition syndrome caused by germline TP53 mutations. |
+| **Breast Cancer** | Frequently associated with TP53 mutations, especially in aggressive molecular subtypes. |
+| **Osteosarcoma** | One of the hallmark malignancies observed in Li-Fraumeni syndrome. |
+| **Melanoma** | TP53 dysfunction contributes to impaired DNA damage response and tumor progression. |
+| **Liver Carcinoma** | TP53 mutations are commonly detected during hepatocellular carcinoma development. |
+| **Glioma** | Loss of TP53 activity promotes uncontrolled proliferation of brain tumor cells. |
+| **Leukemia** | TP53 alterations are associated with poor prognosis and resistance to therapy. |
+
+---
+
+## Gene–Disease Associations (DisGeNET)
+
+![DisGeNET Disease Associations](images/tp53-disgenet.png)
+
+**Figure 10.** Disease associations of **TP53** obtained from the DisGeNET database. The resource integrates information from curated literature, genome-wide association studies, animal models, and expert-reviewed databases to establish high-confidence gene–disease relationships.
+
+### Interpretation
+
+The DisGeNET results demonstrate that **TP53** is associated with a broad spectrum of malignant diseases. The strongest associations include **Li-Fraumeni syndrome**, breast cancer, osteosarcoma, melanoma, liver carcinoma, glioma, and leukemia. These findings underscore the indispensable role of TP53 in preserving genomic integrity and suppressing tumor development across multiple tissue types.
+
+---
+
+## Hereditary Disease Association (OMIM)
+
+According to the **Online Mendelian Inheritance in Man (OMIM)** database, pathogenic **germline variants in TP53** are responsible for **Li-Fraumeni syndrome (LFS1)**, a rare autosomal dominant hereditary cancer predisposition syndrome. Individuals carrying these variants have a markedly increased lifetime risk of developing multiple primary cancers, including breast cancer, osteosarcoma, soft tissue sarcoma, brain tumors, leukemia, and adrenocortical carcinoma.
+
+### Interpretation
+
+OMIM provides strong clinical evidence that TP53 is not only a critical tumor suppressor but also a hereditary cancer susceptibility gene. Germline mutations compromise the cellular DNA damage response, significantly increasing the risk of early-onset and multiple primary malignancies. Together, the DisGeNET and OMIM resources demonstrate both the broad disease spectrum associated with TP53 and its established role in inherited cancer predisposition.
+
 ---
 
 # 🧬 Biological Pathways
