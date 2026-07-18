@@ -122,7 +122,7 @@ Because TP53 prevents the accumulation of genetic mutations, it is widely known 
 
 ![UniProt Overview](images/uniprot-overview.png)
 
-**Figure 1.** Overview of the reviewed human TP53 protein entry from UniProtKB (Accession: P04637).
+**Figure 1.** Overview of the reviewed human TP53 protein entry from UniProtKB (Accession: P04637), showing the protein name, gene, organism, reviewed status, and sequence length.
 
 # 🧬 Biological Function
 
