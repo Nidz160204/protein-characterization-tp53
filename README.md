@@ -99,7 +99,30 @@ Biological Interpretation
 
 # 🧬 Protein Overview
 
----
+## Protein Information
+
+| Property | Value |
+|----------|-------|
+| Protein Name | Cellular tumor antigen p53 |
+| Gene | TP53 |
+| Organism | *Homo sapiens* |
+| UniProt Accession | P04637 |
+| Reviewed Status | Reviewed (Swiss-Prot) |
+| Protein Length | 393 amino acids |
+| Molecular Weight | 43,653 Da (≈43.7 kDa) |
+| Subcellular Location | Nucleus |
+
+### Overview
+
+Tumor protein p53 (TP53) is a sequence-specific DNA-binding transcription factor that plays a central role in maintaining genomic stability. It responds to various forms of cellular stress, including DNA damage, oxidative stress, and oncogene activation, by regulating genes involved in cell cycle arrest, DNA repair, apoptosis, senescence, and metabolism.
+
+Because TP53 prevents the accumulation of genetic mutations, it is widely known as the **"Guardian of the Genome."** Mutations in the TP53 gene are among the most common genetic alterations observed in human cancers, making it one of the most extensively studied proteins in molecular biology and cancer research.
+
+## UniProt Entry
+
+![UniProt Overview](images/uniprot-overview.png)
+
+**Figure 1.** Overview of the reviewed human TP53 protein entry from UniProtKB (Accession: P04637).
 
 # 🧬 Biological Function
 
