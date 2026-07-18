@@ -186,9 +186,34 @@ The **Tetramerization Domain (TD)** enables four p53 monomers to assemble into t
 
 The UniProt Feature Viewer demonstrates that TP53 possesses a highly organized domain architecture with numerous experimentally annotated functional elements. The central DNA-binding domain represents the largest and most functionally important region of the protein, while the C-terminal region contains multiple regulatory motifs and post-translational modification sites. The high density of annotated variants within the DNA-binding domain reflects its critical role in maintaining TP53 function and explains why this region is frequently disrupted in human cancers.
 
-# 🧬 Post-Translational Modifications
+# 🧬 Post-Translational Modifications (PTMs)
+
+Post-translational modifications (PTMs) are reversible chemical changes that regulate TP53 activity after protein synthesis. Rather than remaining constantly active, TP53 is dynamically modified in response to cellular stress, allowing cells to rapidly control its stability, localization, protein interactions, and transcriptional activity.
+
+DNA damage and other stress signals trigger multiple PTMs that activate TP53, whereas under normal physiological conditions TP53 is continuously ubiquitinated by **MDM2**, leading to proteasomal degradation. The balance between activating and inhibitory modifications determines whether TP53 induces DNA repair, cell cycle arrest, senescence, or apoptosis.
+
+## Major Post-Translational Modifications
+
+| Modification | Function |
+|--------------|----------|
+| **Phosphorylation** | Stabilizes TP53 following DNA damage and promotes its activation. |
+| **Acetylation** | Enhances DNA-binding affinity and increases transcriptional activity. |
+| **Ubiquitination** | Mediated primarily by MDM2 and targets TP53 for proteasomal degradation. |
+| **Methylation** | Regulates transcriptional activity and protein interactions. |
+| **Sumoylation** | Influences nuclear localization and transcriptional regulation. |
+| **Neddylation** | Modulates TP53 stability and functional activity under specific cellular conditions. |
 
 ---
+
+## UniProt PTM Annotation
+
+![TP53 PTM Annotation](images/ptm-processing.png)
+
+**Figure 5.** UniProtKB PTM/Processing annotation of TP53 showing experimentally validated modification sites, processed chain information, and post-translational modifications reported from curated literature and large-scale proteomics studies.
+
+### Interpretation
+
+The PTM annotation demonstrates that TP53 is one of the most extensively regulated proteins in human cells. Numerous phosphorylation sites are concentrated within the N-terminal region, where they stabilize TP53 and prevent degradation by MDM2 following DNA damage. Additional modifications distributed throughout the protein fine-tune DNA binding, transcriptional activity, intracellular localization, and protein stability. Collectively, these modifications enable TP53 to function as a rapid and tightly controlled cellular stress sensor.
 
 # 🧬 Protein Structure
 
