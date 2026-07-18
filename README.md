@@ -126,7 +126,35 @@ Because TP53 prevents the accumulation of genetic mutations, it is widely known 
 
 # 🧬 Biological Function
 
+The **TP53** gene encodes the tumor suppressor protein **p53**, a sequence-specific DNA-binding transcription factor that plays a pivotal role in maintaining genomic integrity. Under normal physiological conditions, p53 is maintained at low intracellular levels through ubiquitin-mediated degradation by the E3 ubiquitin ligase **MDM2**. However, in response to cellular stress signals such as DNA damage, oxidative stress, hypoxia, or oncogene activation, p53 becomes stabilized and transcriptionally active.
+
+Activated p53 regulates the expression of numerous downstream target genes involved in **cell cycle arrest**, **DNA repair**, **apoptosis**, **cellular senescence**, **metabolic regulation**, and **autophagy**. These coordinated cellular responses prevent the propagation of damaged DNA, thereby reducing genomic instability and suppressing tumor formation.
+
+Because of its fundamental role in safeguarding the genome against mutations, p53 is widely recognized as the **"Guardian of the Genome."** Mutations in the TP53 gene are among the most frequently observed genetic alterations in human cancers, highlighting its importance in cancer biology and therapeutic research.
+
 ---
+
+## Functional Annotation
+
+![Functional Annotation of TP53](images/function-uniprot.png)
+
+**Figure 2.** Functional annotation of the reviewed human TP53 protein obtained from UniProtKB. The database describes TP53 as a multifunctional transcription factor involved in DNA damage response, cell cycle regulation, DNA repair, apoptosis, and tumor suppression.
+
+### Interpretation
+
+The UniProt functional annotation demonstrates that TP53 coordinates multiple cellular defense mechanisms following stress or DNA damage. By activating genes responsible for cell cycle arrest and DNA repair or initiating apoptosis when damage is irreversible, TP53 prevents the accumulation of harmful mutations and maintains genomic stability.
+
+---
+
+## Gene Ontology (GO) Analysis
+
+![Gene Ontology of TP53](images/gene-ontology.png)
+
+**Figure 3.** Gene Ontology (GO) annotations of TP53 illustrating its molecular functions and participation in diverse biological processes.
+
+### Interpretation
+
+Gene Ontology analysis reveals that TP53 primarily functions as a **DNA-binding transcription factor** and participates in numerous biological processes, including **DNA damage response**, **regulation of transcription**, **cell cycle control**, **apoptosis**, and **cellular stress response**. These annotations collectively emphasize TP53's central role in regulating cellular homeostasis and preventing malignant transformation.
 
 # 🧬 Protein Domains
 
