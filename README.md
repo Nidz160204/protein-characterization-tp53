@@ -262,7 +262,58 @@ The AlphaFold model provides a complete structural prediction of TP53, while exp
 
 # 🧬 Protein–Protein Interactions
 
+TP53 functions as the central hub of a complex protein interaction network that coordinates the cellular response to DNA damage and other forms of stress. Rather than acting independently, TP53 interacts with numerous regulatory proteins that control its activation, stability, degradation, and transcriptional activity. These interactions determine whether a damaged cell undergoes DNA repair, transient cell cycle arrest, senescence, or apoptosis.
+
+Multiple experimental studies have demonstrated that TP53 activity is tightly regulated by proteins involved in phosphorylation, acetylation, ubiquitination, chromatin remodeling, and DNA damage signaling.
+
+## Major TP53 Interacting Proteins
+
+| Protein | Function | Relationship with TP53 |
+|---------|----------|-------------------------|
+| **MDM2** | E3 ubiquitin ligase | Promotes TP53 ubiquitination and degradation. |
+| **ATM** | DNA damage kinase | Activates TP53 through phosphorylation. |
+| **EP300** | Histone acetyltransferase | Acetylates TP53 and enhances transcription. |
+| **CREBBP** | Transcriptional co-activator | Works together with TP53 to regulate gene expression. |
+| **SIRT1** | Protein deacetylase | Decreases TP53 transcriptional activity through deacetylation. |
+| **TP53BP1** | DNA damage response protein | Participates in DNA repair signaling alongside TP53. |
+
 ---
+
+## Experimentally Validated Interaction Network (IntAct)
+
+![IntAct Network](images/intact-network.png)
+
+**Figure 8.** Experimentally validated TP53 interaction network obtained from the IntAct database. Nodes represent interacting proteins, while edges represent curated molecular interactions supported by experimental evidence.
+
+### Interpretation
+
+The IntAct interaction network demonstrates that TP53 acts as a highly connected molecular hub interacting with proteins involved in DNA damage signaling, transcriptional regulation, chromatin remodeling, ubiquitination, and apoptosis. The large number of experimentally validated interactions highlights the central regulatory role of TP53 in maintaining genomic stability.
+
+---
+
+## Functional Interaction Network (STRING)
+
+![STRING Network](images/tp53-string-network.png)
+
+**Figure 9.** Functional protein association network of TP53 generated using the STRING database.
+
+### Interpretation
+
+The STRING network complements the experimentally validated IntAct data by integrating functional associations derived from curated databases, experimental studies, computational prediction, co-expression analysis, and text mining. The dense interaction network illustrates that TP53 participates in numerous interconnected biological pathways rather than functioning as an isolated transcription factor.
+
+---
+
+## Comparison of Interaction Databases
+
+| Feature | IntAct | STRING |
+|----------|--------|---------|
+| Primary Data | Experimentally validated molecular interactions | Functional protein associations |
+| Evidence | Curated literature | Experimental + computational + literature |
+| Best Use | Validation of physical interactions | Network visualization and pathway analysis |
+
+### Summary
+
+Using both IntAct and STRING provides complementary perspectives on TP53 biology. IntAct offers high-confidence experimentally validated interactions, whereas STRING expands these interactions into a broader functional network. Together, these resources demonstrate that TP53 serves as a master regulator connecting DNA repair, cell cycle regulation, apoptosis, chromatin remodeling, and cellular stress response pathways.
 
 # 🧬 Disease Associations
 
